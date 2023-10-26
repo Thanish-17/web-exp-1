@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delicious Chocolate</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Chocolate World!</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Our Chocolate</h2>
+            <p>Indulge in the rich and creamy taste of our handcrafted chocolates. Made with the finest ingredients, our chocolates are a true delight for your taste buds.</p>
+        </section>
+        <img src="choco1.jpg" alt="Delicious Chocolate" width="400" height="300">
+
+        <section>
+            <h2>Our Chocolate Products</h2>
+            <ul>
+                <li>Dark Chocolate Bars</li>
+                <li>Milk Chocolate Truffles</li>
+                <li>White Chocolate Bonbons</li>
+                <li>Chocolate Gift Boxes</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Discover the Taste</h2>
+            <p>Explore our wide range of chocolate products and experience the magic of our premium chocolate. Be ready to immerse yourself in the world of sweetness!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact us at: contact@yourchocolate.com</p>
+    </footer>
+    
+    
+</body>
+</html>
